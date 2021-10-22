@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+C:\Users\HP\source\repos\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+C:\Users\HP\source\repos\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+C:\Users\HP\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+C:\Users\HP\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
